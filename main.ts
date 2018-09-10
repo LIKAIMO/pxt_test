@@ -48,4 +48,8 @@ namespace blink {
         //% block="konb"
         KNOB
     }
+	
+	//% block
+	export function foo(){
+	}
 }
